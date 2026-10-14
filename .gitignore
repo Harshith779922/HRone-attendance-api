@@ -1,0 +1,12 @@
+.env
+.env.*
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.vscode/
+sample_data/
+sample_seed.py
+DATA_MODEL.md
+openapi.yaml
+PROBLEM_STATEMENT.docx
